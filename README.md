@@ -1,2 +1,2 @@
 # design_patterns
-Examples of 2018 design patterns
+Examples of design patterns 2018
